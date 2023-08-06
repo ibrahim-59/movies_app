@@ -14,7 +14,7 @@ this app contain of four screens ( using clean architecture and Bloc state manag
 1- Movie details
 2- More like this
 
-![WhatsApp Image 2023-08-06 at 10 28 54 PM](https://github.com/ibrahim-59/movies_app/assets/116106936/ecf08339-fe05-4e22-93a8-d72d014afd9f)
+![WhatsApp Image 2023-08-06 at 10 28 54 PM | width=100px](https://github.com/ibrahim-59/movies_app/assets/116106936/ecf08339-fe05-4e22-93a8-d72d014afd9f)
 
 
 ## Third Screen
