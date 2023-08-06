@@ -6,7 +6,7 @@ this app contain of four screens ( using clean architecture and Bloc state manag
 2- Popular Movies
 3- Top rated movies
 
-<img src= "https://github.com/ibrahim-59/movies_app/assets/116106936/1e82eb2d-8c32-4788-b351-2bb134da3033" width="100" height="100">
+<img src= "https://github.com/ibrahim-59/movies_app/assets/116106936/1e82eb2d-8c32-4788-b351-2bb134da3033" width="250" height="600">
 
 
 
