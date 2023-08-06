@@ -20,7 +20,7 @@ this app contain of four screens ( using clean architecture and Bloc state manag
 ## Third Screen
 - All Popular movies
 
-< img src = "https://github.com/ibrahim-59/movies_app/assets/116106936/0a538818-0dad-4690-bc66-3a79d918fa4b"  width="250" height="500" >
+<img src = "https://github.com/ibrahim-59/movies_app/assets/116106936/0a538818-0dad-4690-bc66-3a79d918fa4b"  width="250" height="500">
 
 
 ## Fourth Screen 
