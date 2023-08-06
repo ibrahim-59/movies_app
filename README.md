@@ -1,5 +1,5 @@
 # movies_app
-this app contain of four screens
+this app contain of four screens ( using clean architecture and Bloc state management)
 
 ## first Screen
 1- Now playing movies
